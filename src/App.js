@@ -9,7 +9,8 @@ function App() {
       <header className="App-header">
         <h1>Implementing HOC</h1>
         <ClickCounter />
-        <MouseOverCounter />
+        {/* passing props to HOC */}
+        <MouseOverCounter name="Akanksha" />
       </header>
     </div>
   );

@@ -9,4 +9,4 @@ class ClickCounter extends React.Component{
         )
     }
 }
-export default WithCounterHoc(ClickCounter);
+export default WithCounterHoc(ClickCounter, 5); // parameter passed with the HOC. It will increment counter by 5.

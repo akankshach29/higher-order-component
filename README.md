@@ -1,5 +1,5 @@
 ## Higher Order Component:
-This is a project implementing HOC.
+This is a project implementing HOC. It also includes passing props and parameters to HOC.
 
 This project was bootstrapped with Create React App
 In the project directory, you can run:
